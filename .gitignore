@@ -14,3 +14,11 @@
 /six/six_question/*.exe
 /seven/*.exe
 /seven/seven_question/*.exe
+/eight/*.exe
+/eight/external/*.exe
+/eight/internal/*.exe
+/eight/namespace/*.exe
+/eight/coordin/*.exe
+/eight/eight_question/*.exe
+/eight/eight_question/one/*.exe
+/eight/eight_question/four/*.exe
