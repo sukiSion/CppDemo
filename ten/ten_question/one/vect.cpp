@@ -1,4 +1,3 @@
-// vect.cpp -- methods for the Vector class
 #include <cmath>
 #include "vect.h"   // includes <iostream>
 using std::sqrt;
@@ -165,10 +164,6 @@ namespace VECTOR
         else
              os << "Vector object mode is invalid";
         return os; 
-    }
-
-    Vector::operator double() const{
-        return mag;
     }
 
 }  // end namespace VECTOR

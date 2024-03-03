@@ -167,8 +167,4 @@ namespace VECTOR
         return os; 
     }
 
-    Vector::operator double() const{
-        return mag;
-    }
-
 }  // end namespace VECTOR

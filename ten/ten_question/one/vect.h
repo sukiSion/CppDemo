@@ -1,4 +1,3 @@
-// vect.h -- Vector class with <<, mode state
 #ifndef VECTOR_H_
 #define VECTOR_H_
 #include <iostream>
@@ -39,7 +38,6 @@ namespace VECTOR
     // friends
         friend Vector operator*(double n, const Vector & a);
         friend std::ostream & operator<<(std::ostream & os, const Vector & v);
-        operator double() const;
     };
 
 }   // end namespace VECTOR

@@ -41,7 +41,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "cstring": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "complex": "cpp"
     },
     "background.enabled": true,
     "background.customImages": [
