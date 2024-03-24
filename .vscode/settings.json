@@ -42,7 +42,8 @@
         "typeinfo": "cpp",
         "cstring": "cpp",
         "ctime": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "valarray": "cpp"
     },
     "background.enabled": true,
     "background.customImages": [

@@ -72,3 +72,12 @@
 /twelve/twelve_question/two/*.exe
 /twelve/twelve_question/three/*.exe
 /twelve/twelve_question/four/*.exe
+/thirteen/*.exe
+/thirteen/arraytp/*.exe
+/thirteen/stack/*.exe
+/thirteen/stcktp1/*.exe
+/thirteen/studentc/*.exe
+/thirteen/studenti/*.exe
+/thirteen/tempparm/*.exe
+/thirteen/worker0/*.exe
+/thirteen/workermi/*.exe
