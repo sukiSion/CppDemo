@@ -66,4 +66,4 @@ ArratTP<double , 10> aves;
 ArratTP<ArratTP<int , 5> , 10> twodee;
 上述一共生成4个模板：：ArrayTP<int, 10>、ArrayTP<double, 10>、ArrayTP<int, 5>和 Array<ArrayTP 
 <int, 5>, 10>
-6、虚基类和非虚基类的区别：．如果两条继承路线有相同的祖先，则类中将包含祖先成员的两个拷贝。将祖先类作为虚基类可以解决这种问题。
+6、虚基类和非虚基类的区别：如果两条继承路线有相同的祖先，则类中将包含祖先成员的两个拷贝。将祖先类作为虚基类可以解决这种问题。
