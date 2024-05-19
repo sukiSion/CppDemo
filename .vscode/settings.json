@@ -43,7 +43,11 @@
         "cstring": "cpp",
         "ctime": "cpp",
         "complex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "map": "cpp",
+        "list": "cpp",
+        "iterator": "cpp",
+        "set": "cpp"
     },
     "background.enabled": true,
     "background.customImages": [
