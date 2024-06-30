@@ -1,0 +1,34 @@
+#include<iostream>
+
+enum class ColorScoped{
+    red,
+    blue,
+    green
+};
+
+void useMe(ColorScoped color){
+    switch(color){
+        case ColorScoped::red: {
+            std::cout << "ColorScoped::red" << std::endl;
+            break;
+        }
+        case ColorScoped::blue: {
+            std::cout << "ColorScoped::blue" << std::endl;
+            break;
+        }
+        case ColorScoped::green: {
+            std::cout << "ColorScoped::green" << std::endl;
+            break;
+        }
+    }
+}
+
+int main(int argc, char const *argv[])
+{
+    std::cout << static_cast<int>(ColorScoped::red) << "\n"; // 0
+    std::cout << static_cast<int>(ColorScoped::green) << "\n"; // 2
+
+    ColorScoped color{ColorScoped::red};
+    useMe(color);  // ColorScoped::red
+    return 0;
+}
