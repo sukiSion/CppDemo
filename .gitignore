@@ -120,10 +120,10 @@
 /c++ code guideline/11/*.exe
 /c++ code guideline/12/*.exe
 /c++ code guideline/13/*.exe
-/c++ code guideline/14/*.exe
-/c++ code guideline/15/*.exe
-/c++ code guideline/16/*.exe
-/c++ code guideline/17/*.exe
-/c++ code guideline/18/*.exe
-/c++ code guideline/19/*.exe
-/c++ code guideline/20/*.exe
+# /c++ code guideline/14/*.exe
+# /c++ code guideline/15/*.exe
+# /c++ code guideline/16/*.exe
+# /c++ code guideline/17/*.exe
+# /c++ code guideline/18/*.exe
+# /c++ code guideline/19/*.exe
+# /c++ code guideline/20/*.exe
